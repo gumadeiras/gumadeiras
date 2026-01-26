@@ -3,7 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=24&duration=3000&pause=1000&color=000000&vCenter=true&width=500&lines=hello.+i'm+gustavo+madeira+santana.">
 </picture>
 
-i'm a phd student in the [emonet lab](https://emonet.biology.yale.edu) at Yale University studying the neural basis of olfactory navigation in fruit flies. i'm broadly interested in how sensory information is integrated in the brain and used in decision-making.
+i'm a phd student in the [emonet lab](https://emonet.biology.yale.edu) at yale university studying the neural basis of olfactory navigation in fruit flies. i'm broadly interested in how sensory information is integrated in the brain and used in decision-making.
+
+![bs](https://img.shields.io/badge/bs-computer_engineering-blue?style=flat-square)
+![ma](https://img.shields.io/badge/ma-biochemistry-green?style=flat-square)
 
 ## connect
 
@@ -16,8 +19,12 @@ i'm a phd student in the [emonet lab](https://emonet.biology.yale.edu) at Yale U
 
 ## some projects
 
-- `optogui` (private): ...
-- ?
+- 🔬 `optogui` (private) — python gui for optogenetic experiments with real-time tracking, closed-loop stimulation, and data visualization
+- 🚂 **[gotrain-cli](https://github.com/gumadeiras/gotrain-cli)** — atomic cli for nyc train departures (mta, lirr, metro-north)
+- 📧 **[apple-mail-search-cli](https://github.com/gumadeiras/apple-mail-search-cli)** — fast sqlite-based search for apple mail with body content support
+- 📺 **[office-quotes-cli](https://github.com/gumadeiras/office-quotes-cli)** — the office quotes cli with offline + online mode
+- 🐭 **[squeakout](https://github.com/gumadeiras/squeakout)** — autoencoder-based segmentation of mouse ultrasonic vocalizations
+- 🎯 **[tokito](https://github.com/gumadeiras/tokito)** — token tracking raycast extension for smarter api spend
 
 ## some papers
 
