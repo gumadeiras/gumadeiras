@@ -24,6 +24,9 @@ i'm a phd student in the [emonet lab](https://emonet.biology.yale.edu) at yale u
 - 📧 **[apple-mail-search-cli](https://github.com/gumadeiras/apple-mail-search-cli)** — fast sqlite-based search for apple mail with body content support
 - 📺 **[office-quotes-cli](https://github.com/gumadeiras/office-quotes-cli)** — the office quotes cli with offline + online mode
 - 🐭 **[squeakout](https://github.com/gumadeiras/squeakout)** — autoencoder-based segmentation of mouse ultrasonic vocalizations
+- 🧠 **[zona_incerta_infant_social_behavior](https://github.com/yxl95/zona_incerta_infant_social_behavior)** — analysis code for age-specific social neurons in mice
+- 🎙️ **[vocalmat](https://github.com/ahof1704/VocalMat)** — analysis of ultrasonic vocalizations using computer vision and machine learning
+- 📺 **[roku-cli](https://github.com/gumadeiras/roku-cli)** — control roku devices from the terminal
 - 🎯 **[tokito](https://github.com/gumadeiras/tokito)** — token tracking raycast extension for smarter api spend
 
 ## some papers
