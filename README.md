@@ -1,19 +1,22 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=hi%2C+i'm+gustavo">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3000&pause=1000&color=000000&vCenter=true&width=435&lines=hi%2C+i'm+gustavo">
-</picture>
+## hello. i'm gustavo madeira santana.
 
-### about
+i'm a phd student in the [emonet lab](https://emonet.biology.yale.edu) studying the neural basis of olfactory navigation in fruit flies. i'm broadly interested in how sensory information is integrated in the brain and used in decision-making.
 
-phd candidate in neuroscience at yale, studying how brains process sensory information.  
-my research focuses on olfactory motion detection in *drosophila*.
+feel free to message me on [twitter](https://twitter.com/gumadeiras) or [email](mailto:fromweb1@gumadeiras.com) me.
 
-### links
+## some papers
 
-[![website](https://img.shields.io/badge/gumadeiras.com-000?style=flat-square&logo=safari&logoColor=white)](https://gumadeiras.com)
-[![scholar](https://img.shields.io/badge/scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=L603SPwAAAAJ)
-[![twitter](https://img.shields.io/badge/@gumadeiras-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/gumadeiras)
+- [visual neurons for distance estimation!](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L603SPwAAAAJ&sortby=pubdate&citation_for_view=L603SPwAAAAJ:QIV2ME_5wuYC) sep 26, 2025
+- [neurons for divergent odor-coding dynamics!](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L603SPwAAAAJ&sortby=pubdate&citation_for_view=L603SPwAAAAJ:mVmsd5A6BfQC) jun 19, 2025
+- [age-specific social neurons in mice](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L603SPwAAAAJ&sortby=pubdate&citation_for_view=L603SPwAAAAJ:Wp0gIr-vW9MC) may 05, 2025
+- [fly adaptive navigation strategies](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L603SPwAAAAJ&sortby=pubdate&citation_for_view=L603SPwAAAAJ:4DMP91E08xMC) mar 31, 2025
+- [neurons for mother–baby bonding!](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L603SPwAAAAJ&sortby=pubdate&citation_for_view=L603SPwAAAAJ:4TOpqqG69KYC) jul 25, 2024
+- [squeakout, autoencoder for vocal segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L603SPwAAAAJ&sortby=pubdate&citation_for_view=L603SPwAAAAJ:_kc_bZDykSQC) apr 23, 2024
 
----
+## links
 
-<sub>*"the fly is a riddle wrapped in a mystery inside an enigma."*</sub>
+- [google scholar](https://scholar.google.com/citations?user=L603SPwAAAAJ)
+- [twitter](https://twitter.com/gumadeiras)
+- [instagram](https://www.instagram.com/gumadeiras)
+- [last.fm](https://www.last.fm/user/gumadeiras)
+- [website](https://gumadeiras.com)
