@@ -24,8 +24,8 @@ i'm a phd student in the [emonet lab](https://emonet.biology.yale.edu) at yale u
 - 🚂 **[gotrain-cli](https://github.com/gumadeiras/gotrain-cli)** — nyc train arrivals/departures/alerts (mta, lirr, metro-north)
 - 📧 **[apple-mail-search-cli](https://github.com/gumadeiras/apple-mail-search-cli)** — fast sqlite-based search for apple mail with body content support
 - 📺 **[office-quotes-cli](https://github.com/gumadeiras/office-quotes-cli)** — the office quotes cli with offline + online mode
-- 📺 **[roku-cli](https://github.com/gumadeiras/roku-cli)** — control roku devices from the terminal
-- 🎯 **[tokito](https://github.com/gumadeiras/tokito)** — token tracking raycast extension for smarter api spend
+- 📺 **[roku-cli](https://github.com/gumadeiras/roku-cli)** — control roku devices from the terminal (+ interactive mode or HTTP bridge)
+- 🎯 **[tokito](https://github.com/gumadeiras/tokito)** — token usage tracking raycast extension for smarter api spend
 
 ## some papers
 
