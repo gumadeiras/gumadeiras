@@ -3,13 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=24&duration=3000&pause=1000&color=000000&vCenter=true&width=500&lines=hello.+i'm+gustavo+madeira+santana.">
 </picture>
 
-i'm a phd student in the [emonet lab](https://emonet.biology.yale.edu) at yale university studying the neural basis of olfactory navigation in fruit flies. i'm broadly interested in how sensory information is integrated in the brain and used in decision-making.
-
-![bs](https://img.shields.io/badge/bs-computer_engineering-555?style=flat-square)
-![ma](https://img.shields.io/badge/ma-biochemistry-555?style=flat-square)
-
-## connect
-
 [![website](https://img.shields.io/badge/gumadeiras.com-000?style=flat-square&logo=safari&logoColor=white)](https://gumadeiras.com)
 [![scholar](https://img.shields.io/badge/google_scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=L603SPwAAAAJ)
 [![twitter](https://img.shields.io/badge/twitter-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/gumadeiras)
@@ -17,15 +10,20 @@ i'm a phd student in the [emonet lab](https://emonet.biology.yale.edu) at yale u
 [![last.fm](https://img.shields.io/badge/last.fm-D51007?style=flat-square&logo=lastdotfm&logoColor=white)](https://www.last.fm/user/gumadeiras)
 [![email](https://img.shields.io/badge/email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:fromweb1@gumadeiras.com)
 
-## some projects
+i'm a phd student in the [emonet lab](https://emonet.biology.yale.edu) at yale university studying the neural basis of olfactory navigation in fruit flies. i'm broadly interested in how sensory information is integrated in the brain and used in decision-making. i also build tools no one asked for but i desperately needed at 2am. balance.
 
-- 🔬 `optogui` (private) — python gui for optogenetic experiments with real-time tracking, closed-loop stimulation, and data visualization
-- 🚂 **[gotrain-cli](https://github.com/gumadeiras/gotrain-cli)** — atomic cli for nyc train departures (mta, lirr, metro-north)
+![bs](https://img.shields.io/badge/bs-computer_engineering-555?style=flat-square)
+![ma](https://img.shields.io/badge/ma-biochemistry-555?style=flat-square)
+
+## stuff
+
+- 🎙️ **[vocalmat](https://github.com/ahof1704/VocalMat)** — analysis of mice ultrasonic vocalizations using computer vision and machine learning
+- 🐭 **[squeakout](https://github.com/gumadeiras/squeakout)** — autoencoder-based segmentation of mouse ultrasonic vocalizations
+- 🔬 `optogui` (closed source) — python framework for optogenetic experiments with real-time behavior tracking, closed-loop stimulation, and data visualization
+- 🧠 **[zona_incerta_infant_social_behavior](https://github.com/yxl95/zona_incerta_infant_social_behavior)** — dimensionality reduction and vocal clustering analysis in mice
+- 🚂 **[gotrain-cli](https://github.com/gumadeiras/gotrain-cli)** — nyc train arrivals/departures/alerts (mta, lirr, metro-north)
 - 📧 **[apple-mail-search-cli](https://github.com/gumadeiras/apple-mail-search-cli)** — fast sqlite-based search for apple mail with body content support
 - 📺 **[office-quotes-cli](https://github.com/gumadeiras/office-quotes-cli)** — the office quotes cli with offline + online mode
-- 🐭 **[squeakout](https://github.com/gumadeiras/squeakout)** — autoencoder-based segmentation of mouse ultrasonic vocalizations
-- 🧠 **[zona_incerta_infant_social_behavior](https://github.com/yxl95/zona_incerta_infant_social_behavior)** — analysis code for age-specific social neurons in mice
-- 🎙️ **[vocalmat](https://github.com/ahof1704/VocalMat)** — analysis of ultrasonic vocalizations using computer vision and machine learning
 - 📺 **[roku-cli](https://github.com/gumadeiras/roku-cli)** — control roku devices from the terminal
 - 🎯 **[tokito](https://github.com/gumadeiras/tokito)** — token tracking raycast extension for smarter api spend
 
