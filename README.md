@@ -1,4 +1,7 @@
-## hello. i'm gustavo madeira santana.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=24&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=hello.+i'm+gustavo+madeira+santana.">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=24&duration=3000&pause=1000&color=000000&vCenter=true&width=500&lines=hello.+i'm+gustavo+madeira+santana.">
+</picture>
 
 i'm a phd student in the [emonet lab](https://emonet.biology.yale.edu) studying the neural basis of olfactory navigation in fruit flies. i'm broadly interested in how sensory information is integrated in the brain and used in decision-making.
 
@@ -15,8 +18,8 @@ feel free to message me on [twitter](https://twitter.com/gumadeiras) or [email](
 
 ## links
 
-- [google scholar](https://scholar.google.com/citations?user=L603SPwAAAAJ)
-- [twitter](https://twitter.com/gumadeiras)
-- [instagram](https://www.instagram.com/gumadeiras)
-- [last.fm](https://www.last.fm/user/gumadeiras)
-- [website](https://gumadeiras.com)
+[![website](https://img.shields.io/badge/gumadeiras.com-000?style=flat-square&logo=safari&logoColor=white)](https://gumadeiras.com)
+[![scholar](https://img.shields.io/badge/google_scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=L603SPwAAAAJ)
+[![twitter](https://img.shields.io/badge/twitter-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/gumadeiras)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gumadeiras)
+[![last.fm](https://img.shields.io/badge/last.fm-D51007?style=flat-square&logo=lastdotfm&logoColor=white)](https://www.last.fm/user/gumadeiras)
