@@ -1,19 +1,19 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=Hi%2C+I'm+Gustavo+%F0%9F%91%8B">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3000&pause=1000&color=000000&vCenter=true&width=500&lines=Hi%2C+I'm+Gustavo+%F0%9F%91%8B">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=hi%2C+i'm+gustavo">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3000&pause=1000&color=000000&vCenter=true&width=435&lines=hi%2C+i'm+gustavo">
 </picture>
 
-### About
+### about
 
-PhD candidate in Neuroscience at Yale, studying how brains process sensory information.  
-My research focuses on olfactory motion detection in *Drosophila*.
+phd candidate in neuroscience at yale, studying how brains process sensory information.  
+my research focuses on olfactory motion detection in *drosophila*.
 
-### Links
+### links
 
-[![Website](https://img.shields.io/badge/gumadeiras.com-000?style=flat-square&logo=safari&logoColor=white)](https://gumadeiras.com)
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
-[![Twitter](https://img.shields.io/badge/@gaborges__-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/gaborges_)
+[![website](https://img.shields.io/badge/gumadeiras.com-000?style=flat-square&logo=safari&logoColor=white)](https://gumadeiras.com)
+[![scholar](https://img.shields.io/badge/scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=L603SPwAAAAJ)
+[![twitter](https://img.shields.io/badge/@gumadeiras-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/gumadeiras)
 
 ---
 
-<sub>*"The fly is a riddle wrapped in a mystery inside an enigma."*</sub>
+<sub>*"the fly is a riddle wrapped in a mystery inside an enigma."*</sub>
