@@ -5,8 +5,8 @@
 
 i'm a phd student in the [emonet lab](https://emonet.biology.yale.edu) at yale university studying the neural basis of olfactory navigation in fruit flies. i'm broadly interested in how sensory information is integrated in the brain and used in decision-making.
 
-![bs](https://img.shields.io/badge/bs-computer_engineering-blue?style=flat-square)
-![ma](https://img.shields.io/badge/ma-biochemistry-green?style=flat-square)
+![bs](https://img.shields.io/badge/bs-computer_engineering-555?style=flat-square)
+![ma](https://img.shields.io/badge/ma-biochemistry-555?style=flat-square)
 
 ## connect
 
