@@ -17,6 +17,7 @@ i'm a phd student in the [emonet lab](https://emonet.biology.yale.edu) at yale u
 
 ## stuff
 
+- 🦞 **[clawdbot](https://github.com/clawdbot/clawdbot)** (maintainer) - personal AI assistant you run on your own devices
 - 🎙️ **[vocalmat](https://github.com/ahof1704/VocalMat)** — analysis of mice ultrasonic vocalizations using computer vision and machine learning
 - 🐭 **[squeakout](https://github.com/gumadeiras/squeakout)** — autoencoder-based segmentation of mouse ultrasonic vocalizations
 - 🔬 `optogui` (closed source) — python framework for optogenetic experiments with real-time behavior tracking, closed-loop stimulation, and data visualization
