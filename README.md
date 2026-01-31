@@ -15,11 +15,12 @@ i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale
 ![bs](https://img.shields.io/badge/bs-computer_engineering-555?style=flat-square)
 ![ma](https://img.shields.io/badge/ma-biochemistry-555?style=flat-square)
 
-## stuff
+## stuff i used(d)
 
 - 🦞 **[openclaw](https://github.com/openclaw/openclaw)** (maintainer) - personal AI assistant you run on your own devices
 - 🎙️ **[vocalmat](https://github.com/ahof1704/VocalMat)** — analysis of mice ultrasonic vocalizations using computer vision and machine learning
 - 🐭 **[squeakout](https://github.com/gumadeiras/squeakout)** — autoencoder-based segmentation of mouse ultrasonic vocalizations
+- 👯 **[doppelganger](https://github.com/badlogic/doppelgangers)** (contributed) find duplicate PRs through embedding visualization
 - 🔬 `optogui` (closed source) — python framework for optogenetic experiments with real-time behavior tracking, closed-loop stimulation, and data visualization
 - 🧠 **[zona_incerta_infant_social_behavior](https://github.com/yxl95/zona_incerta_infant_social_behavior)** — dimensionality reduction and vocal clustering analysis in mice
 - 📧 **[apple-mail-search-cli](https://github.com/gumadeiras/apple-mail-search-cli)** — fast sqlite-based search for apple mail with body content support
