@@ -15,7 +15,7 @@ i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale
 ![bs](https://img.shields.io/badge/bs-computer_engineering-555?style=flat-square)
 ![ma](https://img.shields.io/badge/ma-biochemistry-555?style=flat-square)
 
-## stuff i used(d)
+## stuff i use(d)
 
 - 🦞 **[openclaw](https://github.com/openclaw/openclaw)** (maintainer) - personal AI assistant you run on your own devices
 - 🎙️ **[vocalmat](https://github.com/ahof1704/VocalMat)** — analysis of mice ultrasonic vocalizations using computer vision and machine learning
