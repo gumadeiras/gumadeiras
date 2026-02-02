@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=24&duration=3000&pause=1000&color=000000&vCenter=true&width=500&lines=hello.+i'm+gustavo+madeira+santana.">
 </picture>
 
-[![website](https://img.shields.io/badge/gumadeiras.com-000?style=flat-square&logo=safari&logoColor=white)](https://gumadeiras.com)
-[![scholar](https://img.shields.io/badge/google_scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=L603SPwAAAAJ)
-[![twitter](https://img.shields.io/badge/twitter-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/gumadeiras)
+[![website](https://img.shields.io/badge/gumadeiras.com-000?style=flat-square&logo=icloud&logoColor=white)](https://gumadeiras.com)
+[![scholar](https://img.shields.io/badge/google_scholar-2C5CC7?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=L603SPwAAAAJ)
+[![twitter](https://img.shields.io/badge/@gumadeiras-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/gumadeiras)
 [![email](https://img.shields.io/badge/email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:fromweb1@gumadeiras.com)
 <!-- [![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gumadeiras) -->
 <!-- [![last.fm](https://img.shields.io/badge/last.fm-D51007?style=flat-square&logo=lastdotfm&logoColor=white)](https://www.last.fm/user/gumadeiras) -->
