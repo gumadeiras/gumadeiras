@@ -25,7 +25,7 @@ i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale
 - 🧠 **[zona_incerta_infant_social_behavior](https://github.com/yxl95/zona_incerta_infant_social_behavior)** — dimensionality reduction and vocal clustering analysis in mice
 - 📧 **[apple-mail-search-cli](https://github.com/gumadeiras/apple-mail-search-cli)** — fast sqlite-based search for apple mail with body content support
 - 🖥️ **[roku-cli](https://github.com/gumadeiras/roku-cli)** — control roku devices from the terminal (+ interactive mode or HTTP bridge)
-- 🤖 **[tokito](https://github.com/gumadeiras/tokito)** — token usage tracking raycast extension for smarter api spend
+- 🤖 **[tokito](https://github.com/gumadeiras/tokito)** — AI provider token-usage tracking; raycast extension
 - 🚂 **[gotrain-cli](https://github.com/gumadeiras/gotrain-cli)** — nyc train arrivals/departures/alerts (mta, lirr, metro-north)
 - 🍿 **[office-quotes-cli](https://github.com/gumadeiras/office-quotes-cli)** — the office quotes cli with offline + online mode
 
