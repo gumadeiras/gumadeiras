@@ -10,7 +10,7 @@
 <!-- [![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gumadeiras) -->
 <!-- [![last.fm](https://img.shields.io/badge/last.fm-D51007?style=flat-square&logo=lastdotfm&logoColor=white)](https://www.last.fm/user/gumadeiras) -->
 
-i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale university studying the neural basis of olfactory navigation in fruit flies. i'm broadly interested in how sensory information is integrated in the brain and used in decision-making. i also build tools no one asked for but i desperately needed at 2am. balance.
+i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale university studying the neural basis of olfactory navigation in fruit flies. i'm broadly interested in how sensory information is integrated in the brain and used in decision-making.
 
 ![bs](https://img.shields.io/badge/bs-computer_engineering-555?style=flat-square)
 ![ma](https://img.shields.io/badge/ma-biochemistry-555?style=flat-square)
