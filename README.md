@@ -1,7 +1,15 @@
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=24&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=hello.+i'm+gustavo+madeira+santana.">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=24&duration=3000&pause=1000&color=000000&vCenter=true&width=500&lines=hello.+i'm+gustavo+madeira+santana.">
-</picture>
+</picture> -->
+
+hi. i'm gustavo madeira santana.
+
+i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale university studying the neural basis of olfactory navigation in fruit flies. i'm broadly interested in how sensory information is integrated in the brain and used in decision-making.
+
+![bs](https://img.shields.io/badge/bs-computer_engineering-555?style=flat-square)
+![ma](https://img.shields.io/badge/ma-biochemistry-555?style=flat-square)
+![phd](https://img.shields.io/badge/bs-neuroscience-555?style=flat-square)
 
 [![website](https://img.shields.io/badge/gumadeiras.com-000?style=flat-square&logo=icloud&logoColor=white)](https://gumadeiras.com)
 [![scholar](https://img.shields.io/badge/google_scholar-2C5CC7?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=L603SPwAAAAJ)
@@ -9,12 +17,6 @@
 [![email](https://img.shields.io/badge/email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:fromweb1@gumadeiras.com)
 <!-- [![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gumadeiras) -->
 <!-- [![last.fm](https://img.shields.io/badge/last.fm-D51007?style=flat-square&logo=lastdotfm&logoColor=white)](https://www.last.fm/user/gumadeiras) -->
-
-i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale university studying the neural basis of olfactory navigation in fruit flies. i'm broadly interested in how sensory information is integrated in the brain and used in decision-making.
-
-![bs](https://img.shields.io/badge/bs-computer_engineering-555?style=flat-square)
-![ma](https://img.shields.io/badge/ma-biochemistry-555?style=flat-square)
-
 ## stuff i use(d)
 
 - 🦞 **[openclaw](https://github.com/openclaw/openclaw)** (maintainer) - personal AI assistant you run on your own devices
