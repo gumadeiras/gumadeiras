@@ -19,17 +19,22 @@ i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale
 <!-- [![last.fm](https://img.shields.io/badge/last.fm-D51007?style=flat-square&logo=lastdotfm&logoColor=white)](https://www.last.fm/user/gumadeiras) -->
 ## stuff i use(d)
 
+### exec
 - 🦞 **[openclaw](https://github.com/openclaw/openclaw)** (maintainer) - personal AI assistant you run on your own devices
-- 🎙️ **[vocalmat](https://github.com/ahof1704/VocalMat)** — analysis of mice ultrasonic vocalizations using computer vision and machine learning
-- 🐭 **[squeakout](https://github.com/gumadeiras/squeakout)** — autoencoder-based segmentation of mouse ultrasonic vocalizations
 - 👯 **[doppelganger](https://github.com/badlogic/doppelgangers)** (contributed) — find duplicate PRs through embedding visualization
-- 🔬 `optogui` (closed source) — python framework for optogenetic experiments with real-time behavior tracking, closed-loop stimulation, and data visualization
-- 🧠 **[zona_incerta_infant_social_behavior](https://github.com/yxl95/zona_incerta_infant_social_behavior)** — dimensionality reduction and vocal clustering analysis in mice
 - 📧 **[apple-mail-search-cli](https://github.com/gumadeiras/apple-mail-search-cli)** — fast sqlite-based search for apple mail with body content support
+- 🌡️ **[anovabar](https://github.com/gumadeiras/anovabar)** — Bluetooth control for Anova cookers, with a macOS menu bar app and a Rust CLI
 - 🖥️ **[roku-cli](https://github.com/gumadeiras/roku-cli)** — control roku devices from the terminal (+ interactive mode or HTTP bridge)
 - 🤖 **[tokito](https://github.com/gumadeiras/tokito)** — AI provider token-usage tracking; raycast extension
 - 🚂 **[gotrain-cli](https://github.com/gumadeiras/gotrain-cli)** — nyc train arrivals/departures/alerts (mta, lirr, metro-north)
 - 🍿 **[office-quotes-cli](https://github.com/gumadeiras/office-quotes-cli)** — the office quotes cli with offline + online mode
+
+### sci
+- 🎙️ **[vocalmat](https://github.com/ahof1704/VocalMat)** — analysis of mice ultrasonic vocalizations using computer vision and machine learning
+- 🐭 **[squeakout](https://github.com/gumadeiras/squeakout)** — autoencoder-based segmentation of mouse ultrasonic vocalizations
+- 🔬 `optogui` (closed source) — python framework for optogenetic experiments with real-time behavior tracking, closed-loop stimulation, and data visualization
+- 🧠 **[zona_incerta_infant_social_behavior](https://github.com/yxl95/zona_incerta_infant_social_behavior)** — dimensionality reduction and vocal clustering analysis in mice
+
 
 
 ## some papers
