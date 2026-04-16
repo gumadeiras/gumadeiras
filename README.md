@@ -29,6 +29,7 @@ i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale
 - 🤖 **[tokito](https://github.com/gumadeiras/tokito)** — AI provider token-usage tracking; raycast extension
 - 🚂 **[gotrain-cli](https://github.com/gumadeiras/gotrain-cli)** — nyc train arrivals/departures/alerts (mta, lirr, metro-north)
 - 🍿 **[office-quotes-cli](https://github.com/gumadeiras/office-quotes-cli)** — the office quotes cli with offline + online mode
+- 🧰 **[dotfiles](https://github.com/gumadeiras/dotfiles)** — brew, zsh, terminal, macOS, and agent workflow setup
 
 ### sci
 - 🎙️ **[vocalmat](https://github.com/ahof1704/VocalMat)** — analysis of mice ultrasonic vocalizations using computer vision and machine learning
