@@ -23,6 +23,7 @@ i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale
 - 🦞 **[openclaw](https://github.com/openclaw/openclaw)** (maintainer) - personal AI assistant you run on your own devices
 - 👯 **[doppelganger](https://github.com/badlogic/doppelgangers)** (contributed) — find duplicate PRs through embedding visualization
 - 📧 **[apple-mail-search-cli](https://github.com/gumadeiras/apple-mail-search-cli)** — fast sqlite-based search for apple mail with body content support
+- 📚 **[zot](https://github.com/gumadeiras/zot)** — small Rust CLI for Zotero libraries; search/open PDFs, add items, and JSON I/O
 - 🌡️ **[anovabar](https://github.com/gumadeiras/anovabar)** — Bluetooth control for Anova cookers, with a macOS menu bar app and a Rust CLI
 - 🖥️ **[roku-cli](https://github.com/gumadeiras/roku-cli)** — control roku devices from the terminal (+ interactive mode or HTTP bridge)
 - 🤖 **[tokito](https://github.com/gumadeiras/tokito)** — AI provider token-usage tracking; raycast extension
