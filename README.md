@@ -21,7 +21,6 @@ i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale
 
 ### exec
 - 🦞 **[openclaw](https://github.com/openclaw/openclaw)** (maintainer) - personal AI assistant you run on your own devices
-- 👯 **[doppelganger](https://github.com/badlogic/doppelgangers)** (contributed) — find duplicate PRs through embedding visualization
 - 📧 **[apple-mail-search-cli](https://github.com/gumadeiras/apple-mail-search-cli)** — fast sqlite-based search for apple mail with body content support
 - 📚 **[zot](https://github.com/gumadeiras/zot)** — small Rust CLI for Zotero libraries; search/open PDFs, add items, and JSON I/O
 - 🌡️ **[anovabar](https://github.com/gumadeiras/anovabar)** — Bluetooth control for Anova cookers, with a macOS menu bar app and a Rust CLI
@@ -30,6 +29,8 @@ i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale
 - 🚂 **[gotrain-cli](https://github.com/gumadeiras/gotrain-cli)** — nyc train arrivals/departures/alerts (mta, lirr, metro-north)
 - 🍿 **[office-quotes-cli](https://github.com/gumadeiras/office-quotes-cli)** — the office quotes cli with offline + online mode
 - 🧰 **[dotfiles](https://github.com/gumadeiras/dotfiles)** — brew, zsh, terminal, macOS, and agent workflow setup
+- 🧃 **[tokenjuice](https://github.com/vincentkoc/tokenjuice)** (contributed) — lean output compaction for terminal-heavy agent workflows
+- 👯 **[doppelganger](https://github.com/badlogic/doppelgangers)** (contributed) — find duplicate PRs through embedding visualization
 
 ### sci
 - 🎙️ **[vocalmat](https://github.com/ahof1704/VocalMat)** — analysis of mice ultrasonic vocalizations using computer vision and machine learning
