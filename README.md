@@ -32,7 +32,13 @@ i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale
 - 🧃 **[tokenjuice](https://github.com/vincentkoc/tokenjuice)** (contributed) — lean output compaction for terminal-heavy agent workflows
 - 👯 **[doppelganger](https://github.com/badlogic/doppelgangers)** (contributed) — find duplicate PRs through embedding visualization
 
-### sci
+### sci(cli)
+- 🍇 **[fruitloops](https://github.com/gumadeiras/fruitloops)** — query connectome analysis tables from hemibrain and FlyWire
+- 🧬 **[bdsc](https://github.com/gumadeiras/bdsc-cli)** — sync and query Bloomington Drosophila Stock Center datasets locally
+- 🪰 **[flybase](https://github.com/gumadeiras/flybase-cli)** — FlyBase bulk-file sync/query helper for agent workloads
+- 💡 **[flylight](https://github.com/gumadeiras/flylight-cli)** — search and query Janelia FlyLight Split-GAL4 resources locally
+
+### sci(proc)
 - 🎙️ **[vocalmat](https://github.com/ahof1704/VocalMat)** — analysis of mice ultrasonic vocalizations using computer vision and machine learning
 - 🎤 **[vocalpy](https://github.com/gumadeiras/vocalpy)** — detection, classification, and segmentation of animal vocalizations
 - 🐭 **[squeakout](https://github.com/gumadeiras/squeakout)** — autoencoder-based segmentation of mouse ultrasonic vocalizations
