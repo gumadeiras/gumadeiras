@@ -37,6 +37,7 @@ i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale
 - 🧬 **[bdsc](https://github.com/gumadeiras/bdsc-cli)** — sync and query Bloomington Drosophila Stock Center datasets locally
 - 🪰 **[flybase](https://github.com/gumadeiras/flybase-cli)** — FlyBase bulk-file sync/query helper for agent workloads
 - 💡 **[flylight](https://github.com/gumadeiras/flylight-cli)** — search and query Janelia FlyLight Split-GAL4 resources locally
+- 🧫 **[orthodb](https://github.com/gumadeiras/orthodb-cli)** — cache OrthoDB flat files and query ortholog groups via local data or API
 
 ### sci(proc)
 - 🎙️ **[vocalmat](https://github.com/ahof1704/VocalMat)** — analysis of mice ultrasonic vocalizations using computer vision and machine learning
