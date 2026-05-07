@@ -43,6 +43,7 @@ i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale
 - 🎙️ **[vocalmat](https://github.com/ahof1704/VocalMat)** — analysis of mice ultrasonic vocalizations using computer vision and machine learning
 - 🎤 **[vocalpy](https://github.com/gumadeiras/vocalpy)** — detection, classification, and segmentation of animal vocalizations
 - 🐭 **[squeakout](https://github.com/gumadeiras/squeakout)** — autoencoder-based segmentation of mouse ultrasonic vocalizations
+- 🔬 **[twopy](https://github.com/gumadeiras/twopy)** — two-photon imaging analysis with HDF5 conversion, napari ROI editing, and response plots
 - 🔬 `optogui` (closed source) — python framework for optogenetic experiments with real-time behavior tracking, closed-loop stimulation, and data visualization
 - 🧠 **[zona incerta social behavior](https://github.com/yxl95/zona_incerta_infant_social_behavior)** — dimensionality reduction and vocal clustering analysis in mice
 
