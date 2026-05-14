@@ -19,7 +19,7 @@ i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale
 <!-- [![last.fm](https://img.shields.io/badge/last.fm-D51007?style=flat-square&logo=lastdotfm&logoColor=white)](https://www.last.fm/user/gumadeiras) -->
 ## stuff i use(d)
 
-### exec
+### life
 - 🦞 **[openclaw](https://github.com/openclaw/openclaw)** (maintainer) - personal AI assistant you run on your own devices
 - 📧 **[apple-mail-search-cli](https://github.com/gumadeiras/apple-mail-search-cli)** — fast sqlite-based search for apple mail with body content support
 - 🌡️ **[anovabar](https://github.com/gumadeiras/anovabar)** — Bluetooth control for Anova cookers, with a macOS menu bar app and a Rust CLI
@@ -31,7 +31,8 @@ i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale
 - 🧃 **[tokenjuice](https://github.com/vincentkoc/tokenjuice)** (contributed) — lean output compaction for terminal-heavy agent workflows
 - 👯 **[doppelganger](https://github.com/badlogic/doppelgangers)** (contributed) — find duplicate PRs through embedding visualization
 
-### sci(cli)
+### science(tools)
+- 🗺️ **[lobemap](https://github.com/gumadeiras/lobemap)** — Drosophila antennal lobe atlas viewer and reference tables
 - 📚 **[zot](https://github.com/gumadeiras/zot)** — small Rust CLI for Zotero libraries; search/open PDFs, add items, and JSON I/O
 - 🍇 **[fruitloops](https://github.com/gumadeiras/fruitloops)** — query connectome analysis tables from hemibrain and FlyWire
 - 🧬 **[bdsc](https://github.com/gumadeiras/bdsc-cli)** — sync and query Bloomington Drosophila Stock Center datasets locally
@@ -39,11 +40,10 @@ i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale
 - 💡 **[flylight](https://github.com/gumadeiras/flylight-cli)** — search and query Janelia FlyLight Split-GAL4 resources locally
 - 🧫 **[orthodb](https://github.com/gumadeiras/orthodb-cli)** — cache OrthoDB flat files and query ortholog groups via local data or API
 
-### sci(proc)
+### science(experiments)
 - 🎙️ **[vocalmat](https://github.com/ahof1704/VocalMat)** — analysis of mice ultrasonic vocalizations using computer vision and machine learning
 - 🎤 **[vocalpy](https://github.com/gumadeiras/vocalpy)** — detection, classification, and segmentation of animal vocalizations
 - 🐭 **[squeakout](https://github.com/gumadeiras/squeakout)** — autoencoder-based segmentation of mouse ultrasonic vocalizations
-- 🗺️ **[lobemap](https://github.com/gumadeiras/lobemap)** — Drosophila antennal lobe atlas viewer and reference tables
 - 🔬 **[twopy](https://github.com/gumadeiras/twopy)** — two-photon imaging analysis with HDF5 conversion, napari ROI editing, and response plots
 - 🐾 **`optogui` (closed source)** — python framework for optogenetic experiments with real-time behavior tracking, closed-loop stimulation, and data visualization
 - 🧠 **[zona incerta social behavior](https://github.com/yxl95/zona_incerta_infant_social_behavior)** — dimensionality reduction and vocal clustering analysis in mice
