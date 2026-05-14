@@ -50,7 +50,7 @@ i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale
 
 
 
-## some papers
+### some papers
 
 - [visual neurons for distance estimation!](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L603SPwAAAAJ&sortby=pubdate&citation_for_view=L603SPwAAAAJ:QIV2ME_5wuYC) sep 2025
 - [neurons for divergent odor-coding dynamics!](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=L603SPwAAAAJ&sortby=pubdate&citation_for_view=L603SPwAAAAJ:mVmsd5A6BfQC) jun 2025
