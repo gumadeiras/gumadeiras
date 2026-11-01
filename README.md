@@ -24,7 +24,6 @@ i'm a phd candidate in the [emonet lab](https://emonet.biology.yale.edu) at yale
 - 📧 **[fruitmail](https://github.com/gumadeiras/fruitmail-cli)** — cli for fast sqlite-based search for apple mail with body content support
 - 🌡️ **[anovabar](https://github.com/gumadeiras/anovabar)** — Bluetooth control for Anova cookers, with a macOS menu bar app and a Rust CLI
 - 🖥️ **[roku-cli](https://github.com/gumadeiras/roku-cli)** — control roku devices from the terminal (+ interactive mode or HTTP bridge)
-- 🤖 **[tokito](https://github.com/gumadeiras/tokito)** — AI provider token-usage tracking; raycast extension
 - 🚂 **[gotrain](https://github.com/gumadeiras/gotrain-cli)** — cli for nyc train arrivals/departures/alerts (mta, lirr, metro-north)
 - 🍿 **[office-quotes-cli](https://github.com/gumadeiras/office-quotes-cli)** — the office quotes cli with offline + online mode
 - 🧰 **[dotfiles](https://github.com/gumadeiras/dotfiles)** — brew, zsh, terminal, macOS, and agent workflow setup
